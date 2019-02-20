@@ -150,6 +150,6 @@ function enter(userEnter)
 	{
 		res = "0";
 	}
-	res = res+" Quizzi";
+	res = res+" ";
 	return res.toUpperCase();
 } 
