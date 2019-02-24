@@ -1,6 +1,6 @@
 # Usage
 
-## Example C++
+## C++
 Num2Letter::enter("12345")
 
 ## PHP
