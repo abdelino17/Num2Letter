@@ -1,5 +1,5 @@
 # Usage
-test
+
 ## C++
 Num2Letter::enter("12345")
 
